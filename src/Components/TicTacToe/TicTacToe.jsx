@@ -47,6 +47,7 @@ const TicTacToe = () => {
         box_array.map((e)=>{
             e.current.innerHTML = "";
             console.log("Hello")
+            // This is a comment 
         })
     }
 
